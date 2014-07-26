@@ -1,6 +1,7 @@
 {
     "name": "amitayh/list-renderer",
     "description": "Render nested tree as a HTML ordered list without using recursion",
+    "license": "MIT",
     "autoload": {
         "psr-0": {"Amitayh": "src/"}
     }
